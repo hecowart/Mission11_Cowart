@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission11_Cowart", "Mission11_Cowart\Mission11_Cowart.csproj", "{C9668DA8-6F29-4823-B59D-1103577DA7AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9668DA8-6F29-4823-B59D-1103577DA7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9668DA8-6F29-4823-B59D-1103577DA7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9668DA8-6F29-4823-B59D-1103577DA7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9668DA8-6F29-4823-B59D-1103577DA7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3D2F26A-20BA-4E39-A8D2-50042B780D0B}
+	EndGlobalSection
+EndGlobal
